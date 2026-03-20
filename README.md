@@ -211,12 +211,12 @@ Mumbai peaks June–July. Chennai peaks October–November. Never disrupted simu
 | Mobile App | React Native |
 | Backend | Node.js + Express |
 | ML Models | Python + XGBoost + Prophet + Scikit-learn via FastAPI |
-| Database | PostgreSQL + Redis |
+| Database | PostgreSQL (Supabase) + Redis |
 | Weather | OpenWeatherMap, WeatherAPI, Visual Crossing |
 | AQI | WAQI API |
 | Payments | Razorpay UPI sandbox |
 | Notifications | Firebase Cloud Messaging |
-| Hosting | AWS EC2 + RDS + S3 |
+| Hosting | Vercel (frontend) + Railway (backend) + Supabase (database) |
 
 ---
 
